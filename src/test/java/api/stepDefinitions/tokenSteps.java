@@ -21,7 +21,7 @@ public class tokenSteps {
 
         JsonObject bodyJ = new JsonObject();
         bodyJ.add("clientEmail", "tesyfdgoasedasdokjko@gmail.com");
-        bodyJ.add("clientName", "Bawdtytwww");
+        bodyJ.add("clientName", "Changes2");
         String URL = "https://simple-books-api.glitch.me/api-clients/";
 
         File eeee = new File("src/test/java/api/Payloads/tokenBody.json");
